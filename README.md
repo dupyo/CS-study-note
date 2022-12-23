@@ -4,7 +4,7 @@
 ## 📌 Design Pattern
 
 ### 생성 패턴
-- [디자인 패턴]()
+- [디자인 패턴](https://www.notion.so/5ffa53d0e6184b57bcba70c1b1b2d51b)
 - [싱글톤 패턴]()
 - 팩토리 패턴
 
