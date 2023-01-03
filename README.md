@@ -13,7 +13,7 @@
 - [옵저버 패턴](https://www.notion.so/5ffa53d0e6184b57bcba70c1b1b2d51b) 
 - [프록시 패턴과 프록시 서버](https://www.notion.so/5ffa53d0e6184b57bcba70c1b1b2d51b) 
 - [이터레이터 패턴](https://www.notion.so/5ffa53d0e6184b57bcba70c1b1b2d51b#a40f6c1bd2154772afdc7d9ee312b007)
-- 노출모듈 패턴
+- [노출모듈 패턴](https://www.notion.so/5ffa53d0e6184b57bcba70c1b1b2d51b)
 - [MVC 패턴](https://www.notion.so/5ffa53d0e6184b57bcba70c1b1b2d51b)
 - MVP 패턴
 - MVVM 패턴
