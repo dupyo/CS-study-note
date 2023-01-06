@@ -16,7 +16,7 @@
 - [노출모듈 패턴](https://www.notion.so/5ffa53d0e6184b57bcba70c1b1b2d51b)
 - [MVC 패턴](https://www.notion.so/5ffa53d0e6184b57bcba70c1b1b2d51b)
 - [MVP 패턴](https://www.notion.so/5ffa53d0e6184b57bcba70c1b1b2d51b#f2faa5c3adbb4ca092bbd0400451af30)
-- MVVM 패턴
+- [MVVM 패턴](https://www.notion.so/5ffa53d0e6184b57bcba70c1b1b2d51b#74d3eaefdb144b8094f5b57fd70b68de)
 
 
 
