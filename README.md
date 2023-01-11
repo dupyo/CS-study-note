@@ -36,7 +36,7 @@
 ### 네트워크의 기초
 - [처리량과 지연 시간](https://www.notion.so/TCP-IP-4-68dac5bc54eb49f3af0fb5b0f674c33b)
 - [네트워크 토폴로지와 병목 현상](https://www.notion.so/TCP-IP-4-68dac5bc54eb49f3af0fb5b0f674c33b)
-- 네트워크 분류
+- [네트워크 분류](https://www.notion.so/TCP-IP-4-68dac5bc54eb49f3af0fb5b0f674c33b)
 - 네트워크 성능 분석 명령어
 - 네트워크 프로토콜 표준화
 
