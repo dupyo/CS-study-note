@@ -41,7 +41,7 @@
 - [네트워크 프로토콜 표준화](https://www.notion.so/TCP-IP-4-68dac5bc54eb49f3af0fb5b0f674c33b)
 
 ### TCP/IP 4계층 모델
-- 계층 구조
+- [계층 구조](https://www.notion.so/TCP-IP-4-68dac5bc54eb49f3af0fb5b0f674c33b)
 - PDU
 
 ### 네트워크 기기
