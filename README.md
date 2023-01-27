@@ -48,8 +48,8 @@
 - [네트워크 기기의 처리 범위](https://www.notion.so/TCP-IP-4-68dac5bc54eb49f3af0fb5b0f674c33b)
 - [애플리케이션 계층을 처리하는 기기](https://www.notion.so/TCP-IP-4-68dac5bc54eb49f3af0fb5b0f674c33b)
 - [인터넷 계층을 처리하는 기기](https://www.notion.so/TCP-IP-4-68dac5bc54eb49f3af0fb5b0f674c33b)
-- 데이터 링크 계층을 처리하는 기기
-- 물리 계층을 처리하는 기기
+- [데이터 링크 계층을 처리하는 기기](https://www.notion.so/TCP-IP-4-68dac5bc54eb49f3af0fb5b0f674c33b)
+- [물리 계층을 처리하는 기기](https://www.notion.so/TCP-IP-4-68dac5bc54eb49f3af0fb5b0f674c33b)
 
 ### IP 주소
 - ARP
