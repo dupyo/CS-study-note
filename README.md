@@ -81,7 +81,7 @@
 - [프로세스와 컴파일 과정](https://www.notion.so/aa873f98d628404492a6a922f7bd9051)
 - [프로세스의 상태](https://www.notion.so/aa873f98d628404492a6a922f7bd9051)
 - [프로세스의 메모리 구조](https://www.notion.so/aa873f98d628404492a6a922f7bd9051)
-- PCB
+- [PCB](https://www.notion.so/aa873f98d628404492a6a922f7bd9051)
 - 멀티프로세싱
 - 스레드와 멀티스레딩
 - 공유 자원과 임계 영역
