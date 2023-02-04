@@ -85,7 +85,7 @@
 - [멀티프로세싱](https://www.notion.so/aa873f98d628404492a6a922f7bd9051)
 - [스레드와 멀티스레딩](https://www.notion.so/aa873f98d628404492a6a922f7bd9051)
 - 공유 자원과 임계 영역
-- 교착 상태
+- [교착 상태](https://www.notion.so/aa873f98d628404492a6a922f7bd9051)
 
 ### CPU 스케줄링 알고리즘
 
