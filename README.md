@@ -141,14 +141,14 @@ __3.4.2 선점형 방식
 ### 복잡도
 -  [시간 복잡도](https://www.notion.so/b3742732d3f74471b886132560b5efc7)
 -  [공간 복잡도](https://www.notion.so/b3742732d3f74471b886132560b5efc7)
--  [자료 구조에서의 시간 복잡도](https://www.notion.so/b3742732d3f74471b886132560b5efc7)
+- [자료 구조에서의 시간 복잡도](https://www.notion.so/b3742732d3f74471b886132560b5efc7)
 
 ### 선형 자료 구조
--  [연결 리스트](https://www.notion.so/b3742732d3f74471b886132560b5efc7)
--  배열
-- 벡터
-- 스택
-- 큐
+- [연결 리스트](https://www.notion.so/b3742732d3f74471b886132560b5efc7)
+- [배열](https://www.notion.so/b3742732d3f74471b886132560b5efc7)
+- [벡터](https://www.notion.so/b3742732d3f74471b886132560b5efc7)
+- [스택](https://www.notion.so/b3742732d3f74471b886132560b5efc7)
+- [큐](https://www.notion.so/b3742732d3f74471b886132560b5efc7)
 
 ### 비선형 자료 구조
 - 그래프
