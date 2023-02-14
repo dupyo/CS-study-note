@@ -152,7 +152,7 @@ __3.4.2 선점형 방식
 
 ### 비선형 자료 구조
 - [그래프](https://www.notion.so/21eb5845ec87457bb5f3dce4a2d50dcb)
-- [트리]()
+- [트리](https://www.notion.so/21eb5845ec87457bb5f3dce4a2d50dcb)
 - [힙]()
 - [우선순위 큐]()
 - 맵
