@@ -157,5 +157,5 @@ __3.4.2 선점형 방식
 - [우선순위 큐](https://www.notion.so/b860fa48a7544fabbbf7c77b08d3e4d6#44c9ca4de6f84c23881a03c705b72a78)
 - [맵](https://www.notion.so/b860fa48a7544fabbbf7c77b08d3e4d6#44c9ca4de6f84c23881a03c705b72a78)
 - [셋](https://www.notion.so/b860fa48a7544fabbbf7c77b08d3e4d6#44c9ca4de6f84c23881a03c705b72a78)
-- 해시 테이블
+- [해시 테이블](https://www.notion.so/b860fa48a7544fabbbf7c77b08d3e4d6#44c9ca4de6f84c23881a03c705b72a78)
 - 예상 질문
