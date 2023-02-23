@@ -98,9 +98,9 @@ __3.4.2 선점형 방식
 ## 📌 데이터베이스
 
 ### 데이터베이스의 기본
--  엔터티
--  릴레이션
--  속성
+-  [엔터티](https://woolen-script-3bd.notion.site/e7aaa63998424e8b83a2f35c3c8b4fac)
+-  [릴레이션](https://woolen-script-3bd.notion.site/e7aaa63998424e8b83a2f35c3c8b4fac)
+-  [속성](https://woolen-script-3bd.notion.site/e7aaa63998424e8b83a2f35c3c8b4fac)
 -  도메인
 -  필드와 레코드
 -  관계
