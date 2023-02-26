@@ -102,9 +102,9 @@ __3.4.2 선점형 방식
 -  [릴레이션](https://woolen-script-3bd.notion.site/e7aaa63998424e8b83a2f35c3c8b4fac)
 -  [속성](https://woolen-script-3bd.notion.site/e7aaa63998424e8b83a2f35c3c8b4fac)
 -  [도메인](https://woolen-script-3bd.notion.site/e7aaa63998424e8b83a2f35c3c8b4fac)
--  필드와 레코드
--  관계
--  키
+-  [필드와 레코드](https://woolen-script-3bd.notion.site/e7aaa63998424e8b83a2f35c3c8b4fac)
+-  [관계](https://woolen-script-3bd.notion.site/e7aaa63998424e8b83a2f35c3c8b4fac)
+-  [키](https://woolen-script-3bd.notion.site/e7aaa63998424e8b83a2f35c3c8b4fac)
 ### ERD와 정규화 과정
 -  ERD의 중요성
 -  예제로 배우는 ERD
