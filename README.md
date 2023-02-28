@@ -108,7 +108,7 @@ __3.4.2 선점형 방식
 ### ERD와 정규화 과정
 -  ERD의 중요성
 -  예제로 배우는 ERD
--  정규화 과정
+-  [정규화 과정](https://woolen-script-3bd.notion.site/e7aaa63998424e8b83a2f35c3c8b4fac)
 ### 트랜잭션과 무결성
 -  트랜잭션
 -  무결성
